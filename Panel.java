@@ -1,4 +1,4 @@
-package Snake Game;
+package SnakeGame;
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
@@ -7,7 +7,7 @@ import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
 import java.util.Random;
 
-public class GamePanel extends JPanel implements ActionListener, KeyListener {
+public class Panel extends JPanel implements ActionListener, KeyListener {
     private int[] snakexlength=new int[750];
     private int[]snakeylength=new int[750];
 
