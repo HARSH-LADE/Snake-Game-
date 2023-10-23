@@ -2,7 +2,7 @@ package SnakeGame;
 import java.awt.*;
 
 import java.util.*;
-public class Main {
+public class main {
     public static void main(String[] args) {
         JFrame frame = new JFrame();
         frame.setBounds(10,10,905,700);
